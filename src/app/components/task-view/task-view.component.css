@@ -1,0 +1,8 @@
+.demo-table {
+  width: 100%;
+}
+
+.mat-mdc-header-cell{
+  font-size: large;
+  font-weight: 600;
+}

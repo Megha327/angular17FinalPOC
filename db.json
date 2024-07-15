@@ -1,0 +1,60 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Enablement of Assign Level screen to Admin",
+      "dueDate": "2024-07-23T18:30:00.000Z",
+      "priority": "low",
+      "description": "For L3 all will be with Narendar. HR should have the overriding power of L2, enable the Assign level screen for ADMIN",
+      "category": "subtask",
+      "isCompleted": true
+    },
+    {
+      "id": "2",
+      "title": "Configurations to be added for defining Maker",
+      "dueDate": "2024-07-14T18:30:00.000Z",
+      "priority": "high",
+      "description": "Enhance the roles management edit screen by adding dynamic dropdowns that appear when the 'Maker' role is selected. Specifically, four additional dropdowns for properties should be displayed when the 'Maker' role is chosen. These dropdowns should be hidden when any other role is selected.",
+      "category": "story",
+      "isCompleted": true
+    },
+    {
+      "id": "3",
+      "title": "Add Filters on BU Report",
+      "dueDate": "2024-07-19T18:30:00.000Z",
+      "priority": "medium",
+      "description": "Add filter functionality on BU Report section",
+      "category": "task"
+    },
+    {
+      "id": "4",
+      "title": "Update API payload to edit increment cycle for the update",
+      "dueDate": "2024-07-16T18:30:00.000Z",
+      "priority": "medium",
+      "description": "Update API payload to edit increment cycle for the update",
+      "category": "subtask",
+      "isCompleted": false
+    },
+    {
+      "id": "5",
+      "title": "Hover implemented on Projects is not working fine in case of last record",
+      "dueDate": "2024-07-24T18:30:00.000Z",
+      "priority": "high",
+      "description": "Hover implemented on Projects is not working fine in case of last record",
+      "category": "story",
+      "isCompleted": true
+    },
+    {
+      "id": "0427",
+      "title": "new test TO DO",
+      "dueDate": "2024-07-12T17:05:14.991Z",
+      "priority": "medium",
+      "description": "hello testing",
+      "category": "subtask",
+      "isCompleted": false
+    }
+  ],
+  "total": 254,
+  "skip": 0,
+  "limit": 30
+}

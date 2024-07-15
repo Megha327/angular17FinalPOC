@@ -1,0 +1,11 @@
+<div class="w-full flex items-center gap-4" style = "width: 1200px">
+    <mat-form-field subscriptSizing = "dynamic" appearance = "outline" class="w-8/12">
+        <input 
+            [(ngModel)] = "text"
+            name = "search"
+            matInput 
+            placeholder="Search by title..." 
+        >
+    </mat-form-field>
+    <button mat-raised-button color="primary" (click) = "onSearchHandler()">Search</button>
+</div>
